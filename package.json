@@ -1,0 +1,49 @@
+{
+  "_from": "npm-hello-loner@^1.0.4",
+  "_id": "npm-hello-loner@1.0.5",
+  "_inBundle": false,
+  "_integrity": "sha512-AQX44pgxXGQ30GgVNv+uFqFGOxREqX+LjIpW7cF1SQLKxPwORK/w66mkdiRvJAtzeAgNH9xwXrJmcb0dRI96JA==",
+  "_location": "/npm-hello-loner",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "npm-hello-loner@^1.0.4",
+    "name": "npm-hello-loner",
+    "escapedName": "npm-hello-loner",
+    "rawSpec": "^1.0.4",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.4"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/npm-hello-loner/-/npm-hello-loner-1.0.5.tgz",
+  "_shasum": "991fb7454f671d0b7f6f24a30a9bdadebd8064a1",
+  "_spec": "npm-hello-loner@^1.0.4",
+  "_where": "/Users/bhaveshjain/Desktop/bhavesh_workspace/using-yarn/lonerwithEmergency/lonerEmergency",
+  "author": {
+    "name": "bhavesh jain"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "this is for testing perpose",
+  "keywords": [
+    "npm",
+    "loner",
+    "lonersdk",
+    "npm-hello-loner"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "npm-hello-loner",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.5",
+  "dependencies": {
+    "react-native-axios": "^0.17.1",
+    "react-native-ble-manager": "^6.6.2"
+  }
+}
